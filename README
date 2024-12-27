@@ -14,8 +14,9 @@ Building
 --------
 
 Requirements:
-Amiga OS 3.9
-SAS/C 6.58 for Amiga
+Amiga OS 3.9: e.g. https://amigastore.eu/en/261-amiga-os-39.html
+SAS/C 6.58 for Amiga: https://ftp2.grandis.nu/turran/FTP/TheZone/files/_2016/sasc658%20[SAS-C%20v.6.5.8].lha
+Fish Disk 982: http://aminet.net/package/misc/fish/fish-0982 -- Bin2Hunk in c:
 
 
 smake
