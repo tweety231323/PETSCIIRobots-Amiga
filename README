@@ -12,6 +12,12 @@ About
 
 Building
 --------
+
+Requirements:
+Amiga OS 3.9
+SAS/C 6.58 for Amiga
+
+
 smake
 cd Amiga
 /AmigaRobots
